@@ -2,6 +2,8 @@
 
 ```docker-compose up --remove-orphans -d --build```
 
+Перейти в браузер по адресу http://localhost:8080
+
 Необходим docker!
 
 ## Структура таблицы
